@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="20 60 696 616"><rect x="20" y="60" width="696" height="616" rx="150" fill="#0a0820"/><defs><linearGradient id="g1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#14F195"/><stop offset="1" stop-color="#9945FF"/></linearGradient>
+  <linearGradient id="g2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#00C2FF"/><stop offset="1" stop-color="#7b2cbf"/></linearGradient></defs><g transform="translate(368 368) scale(.82) translate(-368 -368)">
+  <path fill="url(#g1)" d="M251.8 290C271.8 232 301.8 210 343.8 210H349L375.11 395.64L330.56 526Z"/><path fill="url(#g2)" d="M203.8 290H251.8L330.56 526Z"/>
+  <path fill="url(#g1)" d="M489.8 290C509.8 232 539.8 210 581.8 210H676.56L568.56 526Z"/><path fill="url(#g2)" d="M441.8 290H489.8L568.56 526Z"/>
+  <path fill="#ffffff" d="M61 210H139C173.22 210 211.54 235.7 224.52 267.37L330.56 526H252.56C218.34 526 180.02 500.3 167.04 468.63Z"/><path fill="#ffffff" d="M299 210H377C411.22 210 449.54 235.7 462.52 267.37L568.56 526H490.56C456.34 526 418.02 500.3 405.04 468.63Z"/></g>
+</svg>

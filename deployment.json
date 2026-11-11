@@ -1,0 +1,46 @@
+{
+  "chainId": 101,
+  "rpc": "https://api.mainnet-beta.solana.com",
+  "explorer": "https://solscan.io",
+  "fromBlock": 318450000,
+  "contracts": {
+    "weth": "So11111111111111111111111111111111111111112",
+    "token": "live now on pump.fun",
+    "registry": "WickReg111111111111111111111111111111111111",
+    "nft": "WickNFT111111111111111111111111111111111111",
+    "callMarket": "WickCa1111111111111111111111111111111111111",
+    "putMarket": "WickPut111111111111111111111111111111111111",
+    "router": "WickRtr111111111111111111111111111111111111",
+    "feeVault": "WickFee111111111111111111111111111111111111",
+    "staking": "WickStk111111111111111111111111111111111111",
+    "poolManager": "WickPool11111111111111111111111111111111111",
+    "timelock": "WickLock11111111111111111111111111111111111"
+  },
+  "roles": {
+    "safe": "WickSafe11111111111111111111111111111111111",
+    "guardian": "WickGrd111111111111111111111111111111111111",
+    "ops": "WickOps111111111111111111111111111111111111",
+    "dev": "WickDev111111111111111111111111111111111111",
+    "keeper": "WickKpr111111111111111111111111111111111111"
+  },
+  "tokens": [
+    {
+      "address": "JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN",
+      "symbol": "JUP",
+      "name": "Jupiter",
+      "decimals": 6
+    },
+    {
+      "address": "orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE",
+      "symbol": "ORCA",
+      "name": "Orca",
+      "decimals": 6
+    },
+    {
+      "address": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
+      "symbol": "WIF",
+      "name": "dogwifhat",
+      "decimals": 6
+    }
+  ]
+}

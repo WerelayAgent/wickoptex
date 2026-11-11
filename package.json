@@ -1,0 +1,6 @@
+{
+  "name": "wickoptex",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Wickoptex \u2014 Covered calls and cash-secured puts on Solana."
+}

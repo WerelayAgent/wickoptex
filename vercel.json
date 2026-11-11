@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "outputDirectory": ".",
+  "rewrites": [
+    {
+      "source": "/app",
+      "destination": "/app.html"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/$1"
+    }
+  ]
+}
